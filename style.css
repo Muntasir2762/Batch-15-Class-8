@@ -1,0 +1,25 @@
+
+.heading{
+    background-color: green;
+}
+
+#greetings{
+    background-color: blue;
+}
+
+#heading3{
+    background-color: blue;
+}
+
+p{
+    background-color: yellow;
+}
+
+.box{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border: 5px solid green;
+    border-radius: 50px;
+    margin: auto;
+}

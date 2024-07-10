@@ -1,0 +1,33 @@
+
+=========Identifier=========
+1. tag
+2. class
+3. id
+
+
+
+Abdur Rahim (235642375676)
+Abdur Rahim (238756234875)
+
+
+<section>
+ <div>
+ 
+ </div>
+
+ <div>
+ 
+ </div>
+
+ <div>
+
+ </div>
+
+ <div>
+ 
+ </div>
+</section>
+
+<style></style>
+
+<script></script>
